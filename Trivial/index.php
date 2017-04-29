@@ -31,23 +31,8 @@
 			<ul data-role="listview">
 				<li><a href="dialog.php" data-rel="dialog" data-transition="slidedown" data-theme="b">
 					<img src="trivial.jpg" />
-					<h3>Ciencias</h3>
-					<p>Preguntas sobre ciencias</p>
-				</a></li>
-				<li><a href="dialog.php" data-rel="dialog" data-transition="slidedown" data-theme="b">
-					<img src="trivial.jpg" />
-					<h3>Deportes</h3>
-					<p>Preguntas sobre deportes</p>
-				</a></li>
-				<li><a href="dialog.php" data-rel="dialog" data-transition="slidedown" data-theme="b">
-					<img src="trivial.jpg" />
-					<h3>Historia</h3>
-					<p>Preguntas sobre historia</p>
-				</a></li>
-				<li><a href="dialog.php" data-rel="dialog" data-transition="slidedown" data-theme="b">
-					<img src="trivial.jpg" />
-					<h3>Infomática</h3>
-					<p>Preguntas sobre informática</p>
+					<h3>Empezamos</h3>
+					<p>Preguntas varias</p>
 				</a></li>
 			</ul>
 		</div>

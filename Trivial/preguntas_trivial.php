@@ -41,7 +41,7 @@ shuffle($respuestas);
 		    // window.location = "http://msdn.microsoft.com";
 		}
 		$(document).ready(function(){
-			$(".countdown").countdown(redirect, 10, " segundos");
+			$(".countdown").countdown(redirect, 15, " segundos");
 		})
 	</script>
 </head> 
